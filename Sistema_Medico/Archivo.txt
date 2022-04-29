@@ -1,0 +1,4 @@
+Nombre Completo: null
+Diagnostico Paciente: null
+Receta MedicaTitulo diagnosticogripa
+Medicamentos: Medicamento 
